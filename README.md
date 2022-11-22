@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThomasHoerner
+- 👀 I’m interested in Coding & Gaming
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me = you can't xD
