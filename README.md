@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding & Gaming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me = you can't xD
+- 📫 You can reach me = github@thomashoerner.de
